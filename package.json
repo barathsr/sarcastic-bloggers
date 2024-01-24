@@ -1,0 +1,29 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "bloging website backend ",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barathsr/sarcastic-bloggers.git"
+  },
+  "keywords": [
+    "blogs",
+    "indiespirit",
+    "barath"
+  ],
+  "author": "Barath,Dharani,Vashnavi,Nandhini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barathsr/sarcastic-bloggers/issues"
+  },
+  "homepage": "https://github.com/barathsr/sarcastic-bloggers#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
